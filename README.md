@@ -68,7 +68,6 @@ Error: Invalid input version
 This repository contains unit test cases which provide the industry standard code coverage. The test cases can be executed using following commands:
 ```bash
 $ cd version-utility/utility
-$ go build
 $ go test
 ```
 
